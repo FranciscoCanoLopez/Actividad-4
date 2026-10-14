@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = DcomShared
+build_property.ProjectDir = C:\Users\volub\source\repos\Actividad 4\DcomShared\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

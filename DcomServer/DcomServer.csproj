@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>..\DcomKey.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DcomShared\DcomShared.csproj" />
+  </ItemGroup>
+</Project>

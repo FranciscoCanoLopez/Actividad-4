@@ -1,0 +1,12 @@
+C:\Users\volub\source\repos\Actividad 4\DcomServer\bin\Debug\net48\DcomServer.dll
+C:\Users\volub\source\repos\Actividad 4\DcomServer\bin\Debug\net48\DcomServer.pdb
+C:\Users\volub\source\repos\Actividad 4\DcomServer\bin\Debug\net48\DcomShared.dll
+C:\Users\volub\source\repos\Actividad 4\DcomServer\bin\Debug\net48\DcomShared.pdb
+C:\Users\volub\source\repos\Actividad 4\DcomServer\obj\Debug\net48\DcomServer.csproj.AssemblyReference.cache
+C:\Users\volub\source\repos\Actividad 4\DcomServer\obj\Debug\net48\DcomServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volub\source\repos\Actividad 4\DcomServer\obj\Debug\net48\DcomServer.AssemblyInfoInputs.cache
+C:\Users\volub\source\repos\Actividad 4\DcomServer\obj\Debug\net48\DcomServer.AssemblyInfo.cs
+C:\Users\volub\source\repos\Actividad 4\DcomServer\obj\Debug\net48\DcomServer.csproj.CoreCompileInputs.cache
+C:\Users\volub\source\repos\Actividad 4\DcomServer\obj\Debug\net48\DcomServer.csproj.Up2Date
+C:\Users\volub\source\repos\Actividad 4\DcomServer\obj\Debug\net48\DcomServer.dll
+C:\Users\volub\source\repos\Actividad 4\DcomServer\obj\Debug\net48\DcomServer.pdb

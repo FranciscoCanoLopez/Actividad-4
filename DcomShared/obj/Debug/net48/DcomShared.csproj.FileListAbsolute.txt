@@ -1,0 +1,9 @@
+C:\Users\volub\source\repos\Actividad 4\DcomShared\bin\Debug\net48\DcomShared.dll
+C:\Users\volub\source\repos\Actividad 4\DcomShared\bin\Debug\net48\DcomShared.pdb
+C:\Users\volub\source\repos\Actividad 4\DcomShared\obj\Debug\net48\DcomShared.csproj.AssemblyReference.cache
+C:\Users\volub\source\repos\Actividad 4\DcomShared\obj\Debug\net48\DcomShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volub\source\repos\Actividad 4\DcomShared\obj\Debug\net48\DcomShared.AssemblyInfoInputs.cache
+C:\Users\volub\source\repos\Actividad 4\DcomShared\obj\Debug\net48\DcomShared.AssemblyInfo.cs
+C:\Users\volub\source\repos\Actividad 4\DcomShared\obj\Debug\net48\DcomShared.csproj.CoreCompileInputs.cache
+C:\Users\volub\source\repos\Actividad 4\DcomShared\obj\Debug\net48\DcomShared.dll
+C:\Users\volub\source\repos\Actividad 4\DcomShared\obj\Debug\net48\DcomShared.pdb
