@@ -10,3 +10,4 @@ C:\Users\volub\source\repos\Actividad 4\DcomServer\obj\Debug\net48\DcomServer.cs
 C:\Users\volub\source\repos\Actividad 4\DcomServer\obj\Debug\net48\DcomServer.csproj.Up2Date
 C:\Users\volub\source\repos\Actividad 4\DcomServer\obj\Debug\net48\DcomServer.dll
 C:\Users\volub\source\repos\Actividad 4\DcomServer\obj\Debug\net48\DcomServer.pdb
+C:\Users\volub\source\repos\Actividad 4\DcomServer\obj\Debug\net48\DcomServer.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DcomClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eda162e98212d261eca67e6b172a4cd02c361310")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f94129d0605a30875371b1e7dc26b5662d07819d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DcomClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DcomClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

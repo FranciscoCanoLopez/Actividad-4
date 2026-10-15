@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DcomClient/DcomClient.csproj" />
+  <Project Path="DcomServer/DcomServer.csproj" />
+  <Project Path="DcomShared/DcomShared.csproj" />
+</Solution>
