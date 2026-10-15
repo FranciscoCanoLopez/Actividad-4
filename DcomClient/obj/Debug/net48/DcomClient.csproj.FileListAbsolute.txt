@@ -1,0 +1,14 @@
+C:\Users\volub\source\repos\Actividad 4\DcomClient\bin\Debug\net48\DcomClient.exe.config
+C:\Users\volub\source\repos\Actividad 4\DcomClient\bin\Debug\net48\DcomClient.exe
+C:\Users\volub\source\repos\Actividad 4\DcomClient\bin\Debug\net48\DcomClient.pdb
+C:\Users\volub\source\repos\Actividad 4\DcomClient\bin\Debug\net48\DcomShared.dll
+C:\Users\volub\source\repos\Actividad 4\DcomClient\bin\Debug\net48\DcomShared.pdb
+C:\Users\volub\source\repos\Actividad 4\DcomClient\obj\Debug\net48\DcomClient.csproj.AssemblyReference.cache
+C:\Users\volub\source\repos\Actividad 4\DcomClient\obj\Debug\net48\DcomClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volub\source\repos\Actividad 4\DcomClient\obj\Debug\net48\DcomClient.AssemblyInfoInputs.cache
+C:\Users\volub\source\repos\Actividad 4\DcomClient\obj\Debug\net48\DcomClient.AssemblyInfo.cs
+C:\Users\volub\source\repos\Actividad 4\DcomClient\obj\Debug\net48\DcomClient.csproj.CoreCompileInputs.cache
+C:\Users\volub\source\repos\Actividad 4\DcomClient\obj\Debug\net48\DcomClient.sourcelink.json
+C:\Users\volub\source\repos\Actividad 4\DcomClient\obj\Debug\net48\DcomClient.csproj.Up2Date
+C:\Users\volub\source\repos\Actividad 4\DcomClient\obj\Debug\net48\DcomClient.exe
+C:\Users\volub\source\repos\Actividad 4\DcomClient\obj\Debug\net48\DcomClient.pdb
